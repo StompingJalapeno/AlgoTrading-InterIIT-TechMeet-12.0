@@ -1,7 +1,8 @@
 # Alpha Algo Team_99
 
 ## Name
-ZeltaLabs CryptoAlgorithm Challenge: Untrade Cryptocurrency – Deep Reinforcement Learning Approach
+ZeltaLabs CryptoAlgorithm Challenge: Untrade Cryptocurrency – Deep Reinforcement Learning Approach<br>
+Main Report : [Final Report](finalreport.pdf)
 
 ## Description
 In this project, we aim to develop and implement a crypto trading system using reinforcement learning techniques. Cryptocurrency markets are known for their volatility, making them an interesting domain for applying machine learning models to make informed trading decisions. Deep reinforcement learning, a subset of machine learning, provides a powerful framework for creating adaptive and self-learning trading algorithms.
