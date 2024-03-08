@@ -1,0 +1,27 @@
+	Memory at f9115000 (64-bit, non-prefetchable) [disabled] [size=256]
+	I/O ports at 0580 [disabled] [size=32]
+	Kernel modules: i2c_i801
+
+02:00.0 USB controller: ASMedia Technology Inc. ASM1042A USB 3.0 Host Controller (prog-if 30 [XHCI])
+	Subsystem: ASUSTeK Computer Inc. ASM1042A USB 3.0 Host Controller
+	Physical Slot: 0-1
+	Flags: bus master, fast devsel, latency 0, IRQ 36, NUMA node 0
+	Memory at fb500000 (64-bit, non-prefetchable) [size=32K]
+	Capabilities: <access denied>
+	Kernel driver in use: xhci_hcd
+
+03:00.0 VGA compatible controller: NVIDIA Corporation GV102 (rev a1) (prog-if 00 [VGA controller])
+--
+	Capabilities: <access denied>
+	Kernel driver in use: xhci_hcd
+
+03:00.3 Serial bus controller [0c80]: NVIDIA Corporation Device 1ad7 (rev a1)
+	Subsystem: NVIDIA Corporation Device 12fa
+	Physical Slot: 1
+	Flags: bus master, fast devsel, latency 0, IRQ 51, NUMA node 0
+	Memory at fb084000 (32-bit, non-prefetchable) [size=4K]
+	Capabilities: <access denied>
+	Kernel driver in use: nvidia-gpu
+	Kernel modules: i2c_nvidia_gpu
+
+04:00.0 VGA compatible controller: NVIDIA Corporation GV102 (rev a1) (prog-if 00 [VGA controller])

@@ -19,7 +19,7 @@ Embark on a journey of unparalleled flexibility and innovation with our ZeltaLab
 
 ## Visuals
 <p align="center">
- <video src=".Zelta-Final/Media/videoplay.mp4" controls title="Title"></video>
+ <video src="./Media/videoplay.mp4" controls title="Title"></video>
 </p>
 <p> Testing the model</p>
 
@@ -29,13 +29,13 @@ Embark on a journey of unparalleled flexibility and innovation with our ZeltaLab
 
 3.  Install Anaconda by following the default steps: (**Select Add Anaconda3 to PATH environment variable**)
   <p align="center">
-    <img src=".Zelta-Final/Media/image.png" alt="Anaconda Installation" width="400"/>
+    <img src="./Media/image.png" alt="Anaconda Installation" width="400"/>
   </p>
   
 
 4.  Install VS Code with the default settings.
   <p align="center">
-    <img src=".Zelta-Final/Media/image-1.png" alt="VS Code Installation" width="400"/>
+    <img src="./Media/image-1.png" alt="VS Code Installation" width="400"/>
   </p>
 <!-- #where zelta is virtual environment name
          Enter "y" when asked ``` -->
@@ -82,7 +82,7 @@ Embark on a journey of unparalleled flexibility and innovation with our ZeltaLab
 **Note 1:**- Since the particular task cannot been ran on colab as there are some dependencies clash which cannot be resolved so the creation of virtual environment ensures that no such clash happens on local system. \
 **Note 2:** Final results of our testing are present in `final results` folder.
 ## Usage
-<p align="center"> <img src=".Zelta-Final/Media/BEST_SAC_TEST-3.png" alt="Anaconda Installation" width="400"/></p>
+<p align="center"> <img src="./Media/BEST_SAC_TEST-3.png" alt="Anaconda Installation" width="400"/></p>
 <p>Testing Results Screenshot for model performance</p>
 
 ## Roadmap
