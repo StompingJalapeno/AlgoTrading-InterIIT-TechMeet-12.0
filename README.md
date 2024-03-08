@@ -19,7 +19,7 @@ Embark on a journey of unparalleled flexibility and innovation with our ZeltaLab
 
 ## Visuals
 <p align="center">
- <video src="./Media/videoplay.mp4" controls title="Title"></video>
+ <video src=".Zelta-Final/Media/videoplay.mp4" controls title="Title"></video>
 </p>
 <p> Testing the model</p>
 
